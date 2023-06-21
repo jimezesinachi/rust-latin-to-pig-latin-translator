@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rust-pig-latin"
+name = "rust-latin-to-pig-latin-translator"
 version = "0.1.0"
